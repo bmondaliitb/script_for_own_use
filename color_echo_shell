@@ -1,0 +1,1 @@
+echo "$(tput setaf 1)Red text $(tput setab 7)and white background$(tput sgr 0)"

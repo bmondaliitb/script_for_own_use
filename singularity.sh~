@@ -1,0 +1,1 @@
+singularity exec -B /cvmfs:/cvmfs -B /snap/bin:/snap/bin -B /afs:/afs -B /home:/home -B /home/bmondal:/srv  docker://atlasadc/atlas-grid-centos7 /bin/bash
